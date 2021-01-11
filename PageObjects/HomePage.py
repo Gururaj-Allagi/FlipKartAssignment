@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 class HomePage:
 
-    login_X_button = "//button[@class='_2AkmmA _29YdH8']"
+    login_X_button = "//button[@class='_2KpZ6l _2doB4z']"
 
     search_input_text = "//input[@type='text']"
 

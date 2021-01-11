@@ -42,4 +42,4 @@ class TestFlipKartWebsite(BaseClass, HomePage, SearchListPage):
             sheet.cell(i, 2, mobile_prize)
             sheet.cell(i, 3, mobile_rating.replace(" Ratings", ""))
 
-        book.save("C:\\Users\\User\\Documents\\Siddappa\\Guru\\Python\\pythonAssignment\\Reports\\Output.xlsx")
+        book.save("F:\\Python\\pythonAssignment\\Reports\\Output.xlsx")
