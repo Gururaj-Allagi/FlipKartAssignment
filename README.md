@@ -1,7 +1,5 @@
 # FlipKartAssignment
 
-I have completed the assginment within time
-
 In this basically used PyTest framework with page object 
 
 Assignmnet details:
