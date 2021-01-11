@@ -1,6 +1,5 @@
 # FlipKartAssignment
 
-One of the interviewer asked me to do this assignment in 3h 
 I have completed the assginment within time
 
 In this basically used PyTest framework with page object 
