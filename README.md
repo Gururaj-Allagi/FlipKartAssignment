@@ -1,6 +1,6 @@
 # FlipKartAssignment
 
-In this basically used PyTest framework with page object 
+In this basically used PyTest framework with page object concept
 
 Assignmnet details:
 Please share a Github Repository URL containing the source code of the following question: 
@@ -10,8 +10,6 @@ Please share a Github Repository URL containing the source code of the following
 4. Check for errors, and respond to them 
 5. Split your code into short, focused units 
 6. Scripting can be done in Java or Python using Selenium 
-
-If you have any custom instructions on how to run the assignment, please add them to a README file in your repository 
 
 Question: 
 1. Your Business Analyst has asked to write an automation script which can search for iPhones having a maximum price of INR 40,000 on Flipkart website. 
